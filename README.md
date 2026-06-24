@@ -1,4 +1,4 @@
-# 英语天天练“爱听弘纯的乔乔”地图issues反馈渠道
+# 英语天天练创作者“爱听弘纯的乔乔”的地图 issues 反馈渠道
 
 ## 此仓库仅用作 issue 反馈渠道，无代码提供。
 
@@ -8,7 +8,7 @@
 
 目前有且只有 Github 这一个官方支持平台，其余任何平台、任何群聊均为假冒。
 
-[点击前往 Issues](https://github.com/wzrzone/maps/issues)
+[点击前往地图 issues](https://github.com/wzrzone/maps/issues)
 
 **多看往期 issue 回答，再提问！**
 
@@ -22,7 +22,7 @@
 
 ## 联系我们/合作/推广
 
-同前一条，向我们的 Github 仓库提交一条 issues ，描述清楚您的需求即可。
+同前一条，向我们的 Github 仓库提交一条 issue ，描述清楚您的需求即可。
 
 ---
 
