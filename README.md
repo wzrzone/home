@@ -4,6 +4,10 @@
 
 ---
 
+### [常见问题（FAQ）](https://github.com/wzrzone/home/issues/1)
+
+---
+
 ## 提出问题/提交反馈和建议
 
 目前有且只有 Github 这一个官方支持平台，其余任何平台、任何群聊均为假冒。
