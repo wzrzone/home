@@ -49,3 +49,9 @@
 ---
 
 我们只是英语天天练上的一位地图创作者，与英语天天练官方没有任何的从属关系。
+
+---
+
+语言选择
+
+简体中文 [English](https://github.com/wzrzone/home/blob/main/README.md)
