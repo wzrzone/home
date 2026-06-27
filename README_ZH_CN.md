@@ -52,4 +52,4 @@
 
 ---
 
-语言选择
+[语言选择](https://github.com/wzrzone/home/blob/main/README_LP.md)
