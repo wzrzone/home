@@ -53,5 +53,3 @@
 ---
 
 语言选择
-
-简体中文 [English](https://github.com/wzrzone/home/blob/main/README.md)
