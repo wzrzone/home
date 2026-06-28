@@ -1,6 +1,6 @@
-# README ENGLISH VERSION IS MAKING
+# UNAVIABLE LOCALE
 
-Note: This website is only available to Simplified Chinese users. We do not provide support for users of other languages.
+Note: This repository is only available to users in Mainland China. We do not provide support for users of other languages.
 
 There is no code in this repository.
 
