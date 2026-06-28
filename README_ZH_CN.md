@@ -32,7 +32,7 @@
 
 ## 赞助/支持我们
 
-若您想免费支持我们，可以给我们的 Github 仓库点上一个 star（推荐）；
+若您想免费支持我们，可以给[我们的 Github 仓库](https://github.com/wzrzone/home)点上一个 star（推荐）；
 
 若您想付费支持我们，可以[赞助我们 1 块钱](https://afdian.com/a/wzrzone) ；
 
