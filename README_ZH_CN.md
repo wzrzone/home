@@ -1,38 +1,34 @@
-# 英语天天练创作者“爱听弘纯的乔乔”的地图 issues 反馈渠道
+# 创作者 ` 爱听弘纯的乔乔 ` 的地图 ` Issues ` 反馈渠道
 
-## 此仓库仅用作 issue 反馈渠道，无代码提供。
-
----
-
-### [常见问题（FAQ）](https://github.com/wzrzone/home/issues/1)
+## 此仓库仅用作 ` Issues ` 反馈渠道，无代码提供。
 
 ---
 
-## 提出问题/提交反馈和建议
+### [常见问题（ ` FAQ ` ）](https://github.com/wzrzone/home/issues/1)
 
-目前有且只有 Github 这一个官方支持平台，其余任何平台、任何群聊均为假冒。
+---
 
-[点击前往地图 issues](https://github.com/wzrzone/maps/issues)
+## [提出其他问题/提交反馈和建议](https://github.com/wzrzone/maps/issues)
 
-**多看往期 issue 回答，再提问！**
+```
+多看常见问题，多看往期 Issues 回答，再提问！
+请勿重复提问常见问题、提交与地图无关的内容，否则我们将禁止您再次提问。
 
-**请勿重复提问常见问题、提交与地图无关的内容，否则我们将禁止您再次提问。**
-
-提出其它问题、提交反馈、提供建议都可以直接发 issue 。
-
+提出其它问题、提交反馈、提供建议都可以直接发 Issue 。
 欢迎提交您的问题！我们会在 24~72 小时内回复。
+```
 
 ---
 
 ## 联系我们/合作/推广
 
-同前一条，向我们的 Github 仓库提交一条 issue ，描述清楚您的需求即可。
+同前一条，向我们的 ` Github ` 仓库提交一条 ` Issue ` ，描述清楚您的需求即可。
 
 ---
 
 ## 赞助/支持我们
 
-若您想免费支持我们，可以给[我们的 Github 仓库](https://github.com/wzrzone/home)点上一个 star（推荐）；
+若您想免费支持我们，可以给[我们的 ` Github ` 仓库](https://github.com/wzrzone/home)点上一个 star（推荐）；
 
 若您想付费支持我们，可以[赞助我们 1 块钱](https://afdian.com/a/wzrzone) ；
 
@@ -40,15 +36,15 @@
 
 ---
 
-## 隐私与服务条款
+## [隐私政策摘要](https://app.chuangjing.com/editor/preview?projectId=1078)
 
-本网站是纯静态 HTML 网站，我们不会收集任何的用户信息，我们不会跟踪您，我们不会将您的数据出售给第三方。同时，您不会将我们的服务用于任何非法或未经授权的目的，您使用我们的服务不会违反任何适用的法律或法规，您已阅读并同意 [《隐私政策摘要》](https://app.chuangjing.com/editor/preview?projectId=1078)。
+[用户协议](https://app.chuangjing.com/editor/preview?projectId=992)  |  [用户个人信息保护政策](https://app.chuangjing.com/editor/preview?projectId=993)  |  [儿童个人保护规则](https://app.chuangjing.com/editor/preview?projectId=994)
 
 注意: 本网站只面向简体中文用户开放，对于其它语言的用户，我们不提供支持。
 
 ---
 
-我们只是英语天天练上的一位地图创作者，与英语天天练官方没有任何的从属关系。
+我们只是一位地图创作者，与英语天天练官方没有任何的从属关系。
 
 ---
 
